@@ -1,2 +1,2 @@
-"# hyunseok2" 
-"complete commit" 
+깃허브 사용법 익히기
+PCCP 따버리기
