@@ -6,8 +6,8 @@
 난이도 lv.1, 정답률 47%
 https://school.programmers.co.kr/learn/courses/30/lessons/178871
 
-* 2번 문제
+* 0307
   
-난이도 lv.2, 정답률 66%
+난이도 lv.2, 정답률 66%, 해쉬
 https://school.programmers.co.kr/learn/courses/30/lessons/42578
 
