@@ -24,6 +24,10 @@
 ### 0312
 >난이도 lv.1, 다수
 
+### 0313
+>난이도 lv.1, 정답률 88%
+>https://school.programmers.co.kr/learn/courses/30/lessons/12933
+
 # 
 ## 백준
 ### 0311
