@@ -72,7 +72,7 @@
 >난이도 lv.1, 정답률 73%
 >https://school.programmers.co.kr/learn/courses/30/lessons/142086
 
-####                **난이도 lv.1 연습문제 2페이지 완료**
+### 0323
 
 >난이도 lv.1, 정답률 72%
 >https://school.programmers.co.kr/learn/courses/30/lessons/134240
