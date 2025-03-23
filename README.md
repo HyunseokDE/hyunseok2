@@ -74,6 +74,12 @@
 
 **난이도 lv.1 연습문제 2페이지 완료**
 
+>난이도 lv.1, 정답률 72%
+>https://school.programmers.co.kr/learn/courses/30/lessons/134240
+
+>난이도 lv.1, 정답률 71%, **첫 람다 함수**
+>https://school.programmers.co.kr/learn/courses/30/lessons/12915
+
 # 
 ## 백준
 ### 0311
