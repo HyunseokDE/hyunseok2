@@ -80,6 +80,13 @@
 >난이도 lv.1, 정답률 71%, **첫 람다 함수**
 >https://school.programmers.co.kr/learn/courses/30/lessons/12915
 
+### 0324
+
+>난이도 lv.1, 정답률 70%
+>https://school.programmers.co.kr/learn/courses/30/lessons/17681
+
+>난이도 Lv.1, 정답률 71%
+>https://school.programmers.co.kr/learn/courses/30/lessons/132267
 # 
 ## 백준
 ### 0311
