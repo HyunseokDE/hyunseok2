@@ -87,6 +87,16 @@
 
 >난이도 Lv.1, 정답률 71%
 >https://school.programmers.co.kr/learn/courses/30/lessons/132267
+
+>난이도 lv.1, 정답률 70%
+>https://school.programmers.co.kr/learn/courses/30/lessons/159994
+
+>난이도 lv.1, 정답률 66%
+>https://school.programmers.co.kr/learn/courses/30/lessons/1845
+
+>난이도 lv.1, 정답률 66%, 약수 개수 구하기
+>https://school.programmers.co.kr/learn/courses/30/lessons/136798
+
 # 
 ## 백준
 ### 0311
