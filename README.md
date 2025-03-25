@@ -77,25 +77,8 @@
 >난이도 lv.1, 정답률 72%
 >https://school.programmers.co.kr/learn/courses/30/lessons/134240
 
->난이도 lv.1, 정답률 71%, **첫 람다 함수**
->https://school.programmers.co.kr/learn/courses/30/lessons/12915
-
-### 0324
-
->난이도 lv.1, 정답률 70%
->https://school.programmers.co.kr/learn/courses/30/lessons/17681
-
->난이도 Lv.1, 정답률 71%
->https://school.programmers.co.kr/learn/courses/30/lessons/132267
-
->난이도 lv.1, 정답률 70%
->https://school.programmers.co.kr/learn/courses/30/lessons/159994
-
->난이도 lv.1, 정답률 66%
->https://school.programmers.co.kr/learn/courses/30/lessons/1845
-
->난이도 lv.1, 정답률 66%, 약수 개수 구하기
->https://school.programmers.co.kr/learn/courses/30/lessons/136798
+>난이도 lv.1, 정답률 71%, **첫 색
+>https://school.programmers.co.kr/learn/courses/30/lessons/42840
 
 # 
 ## 백준
