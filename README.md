@@ -103,6 +103,14 @@
 > 난이도 lv.1, 정답률 66%, 완전 탐색
 > https://school.programmers.co.kr/learn/courses/30/lessons/42840
 
+### 0326
+
+> 난이도 lv.1, 정답률 63%, 소수, combination
+> https://school.programmers.co.kr/learn/courses/30/lessons/12977
+
+> 난이도 lv.1, 정답률 64%
+> https://school.programmers.co.kr/learn/courses/30/lessons/135808
+
 # 
 ## 백준
 ### 0311
