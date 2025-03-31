@@ -1,4 +1,4 @@
-# 코딩테스트 준비하기
+# 코딩 실력 늘리기
 
 ## 프로그래머스
 ### 0306
@@ -137,6 +137,10 @@
 ### 0330
 >난이도 lv.1, 정답률 59%
 >https://school.programmers.co.kr/learn/courses/30/lessons/77484
+
+### 0331
+>난이도 lv.1, 정답률 59%
+>https://school.programmers.co.kr/learn/courses/30/lessons/140108
 
 
 # 
