@@ -142,6 +142,10 @@
 >난이도 lv.1, 정답률 59%
 >https://school.programmers.co.kr/learn/courses/30/lessons/140108
 
+### 0401
+>난이도 lv.1, 정답률 59%
+>https://school.programmers.co.kr/learn/courses/30/lessons/155652
+
 
 # 
 ## 백준
