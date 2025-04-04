@@ -1,18 +1,15 @@
-N = input().split()
-N,K = N
+from collections import Counter
+
+N_K = input().split()
+N, K = map(int, N_K)
 P = []
-c=0
-# P = ['1 1', '0 1', '1 1', '0 2', '1 2', '0 2', '0 3', '1 3', '1 4', '1 3', '1 3', '0 6', '1 5', '0 5', '1 5', '1 6']
-# N = 16
-# K = 2
-for _ in range(int(N)):
+
+for _ in range(N):
     S = input()
     P.append(S)
-from collections import Counter
+
+c = 0
 Count = list(Counter(P).values())
 for i in Count:
-    if i <= 2:
-        c += 1
-    else:
-        c += (i+1)//2
+    c += (i + int(K) - 1) // int(K)
 print(c)
