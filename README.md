@@ -22,3 +22,7 @@ Counter(collections) 함수 통해서 문자열 내에 원소 수 파악
 
 https://www.acmicpc.net/problem/11328
 
+### 0404
+>난이도 브론즈 2, 13300번 문제 - 방 배정(배열)
+
+https://www.acmicpc.net/problem/13300
