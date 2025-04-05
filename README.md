@@ -26,3 +26,15 @@ https://www.acmicpc.net/problem/11328
 >난이도 브론즈 2, 13300번 문제 - 방 배정(배열)
 
 https://www.acmicpc.net/problem/13300
+
+### 0405
+>난이도 브론즈 5, 10807번 문제 - 개수 세기(배열)
+
+for문 한 개로 배열 훑기, list.count(원소), Counter(collections)로 가능
+
+https://www.acmicpc.net/problem/10807
+>난이도 실버 3, 3273번 문제 - 두 수의 합(배열)
+
+2중 for문과 for문 내에서 list.count를 사용하는 건 시간복잡도가 O(n^2), 그래서 집합(set)과 투포인터로 해결할 수 있음
+
+https://www.acmicpc.net/problem/3273
