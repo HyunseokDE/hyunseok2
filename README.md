@@ -38,3 +38,10 @@ https://www.acmicpc.net/problem/10807
 2중 for문과 for문 내에서 list.count를 사용하는 건 시간복잡도가 O(n^2), 그래서 집합(set)과 투포인터로 해결할 수 있음
 
 https://www.acmicpc.net/problem/3273
+
+### 0406
+>난이도 실버 5, 1475번 문제 - 방 번호(배열)
+
+Counter와 list.count(원소)로 해결
+
+https://www.acmicpc.net/problem/1475
