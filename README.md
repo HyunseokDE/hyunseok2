@@ -7,6 +7,11 @@
 
 >https://school.programmers.co.kr/learn/courses/30/lessons/155652
 
+### 0414
+난이도 lv.0, 정답률 90%
+
+>https://school.programmers.co.kr/learn/courses/30/lessons/120889
+
 
 # 
 ## 백준
@@ -58,3 +63,5 @@
 난이도 실버 4, 1158번 문제 - 요세푸스(연결 리스트)
 
 > 큐 사용
+
+
